@@ -1,5 +1,7 @@
 ### Flowtype checking bug
 
+Flow Bug: https://github.com/facebook/flow/issues/8069
+
 ## Reproduction
 
 1. Run `yarn install` to set up dependencies.
